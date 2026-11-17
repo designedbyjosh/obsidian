@@ -1,0 +1,20 @@
+# Ignore everything unless explicitly included
+*
+!*/
+!/.gitignore
+!.gitkeep
+
+# Obsidian configuration, plugins, themes and snippets
+!/.obsidian/**
+
+# Templates, category pages and database views
+!/Templates/**
+!/Categories/**
+!*.base
+
+# Exclude session state, bookmarks and caches
+/.obsidian/workspace*.json
+/.obsidian/workspaces.json
+/.obsidian/bookmarks.json
+/.obsidian/cache/
+/.obsidian/.cache/

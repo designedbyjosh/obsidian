@@ -1,0 +1,8 @@
+---
+tags:
+  - weekly
+---
+## Notes
+
+## Todos
+- [ ] 
